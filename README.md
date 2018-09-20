@@ -6,10 +6,10 @@ R shiny applications have two components, a user interface object and a server f
 
 > To learn more about R shiny, see this amazing [tutorial](https://shiny.rstudio.com/articles/basics.html) .
 
-## App 1. Is just 10 seconds of exercise enough to increase pulse
+## App 1. Is just 10 seconds of exercise enough to increase pulse?
 
-As a class, we are going to perform a randomized experiment to answer this question. There will be two treatment groups: Exercise and Sitting, and one rersponse variable: pulse (beats/minute). We will randomly assign treatments by flipping a coin.
+As a class, we are going to perform a randomized experiment to answer this question. There will be two treatment groups: Exercise and Sitting, and one response variable: pulse (beats/minute). We will randomly assign treatments by flipping a coin.
 
-Students will come to the podium and use the lab computer to input their names and results, which will be recorded in the shiny app accumulatively.
+Students will come to the podium and use the lab computer to input their names and results, which will be recorded in the shiny app accumulatively. The results will be shown on the right panel as dotplots in real time.
 
 ![plot1](www/1.png)
